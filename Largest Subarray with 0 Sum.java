@@ -1,3 +1,5 @@
+//Naukri Coding Ninjas Problem
+// Link : https://www.naukri.com/code360/problems/longest-subarray-zero-sum_757507
 import java.util.*;
 
 public class Solution 
@@ -49,3 +51,4 @@ public class Solution
         sc.close();
     }
 }
+
